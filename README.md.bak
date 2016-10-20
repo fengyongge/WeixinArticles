@@ -24,7 +24,7 @@
 
 ## 公众号二维码
 
-<img  src="" width="200px"/>
+<img  src="https://raw.githubusercontent.com/fengyongge/WeixinArticles/master/666.jpg" width="200px"/>
 
 
 ## 征稿启事
