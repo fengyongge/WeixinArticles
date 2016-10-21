@@ -20,6 +20,16 @@
 
 <hr/>
 
+##### [[已推送]Android本地App与html5的交互 ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=2247483661&idx=1&sn=2f15dfd18c0bd951370e79f49f35f017&chksm=eb8b2646dcfcaf5094cff236e2fafad4a5b1ff996075fb6f6fe311278fd906ccfa1364c4291c&scene=4#wechat_redirect)
+
+>作者：[冯永阁](http://www.jianshu.com/p/638f633c172e)<br/>
+>推送时间:2016-10-20
+
+* Android本地App与html5的交互使用
+
+<hr/>
+
+
 
 
 ## 公众号二维码

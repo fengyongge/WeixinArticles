@@ -29,6 +29,15 @@
 
 <hr/>
 
+##### [[已推送]自定义view开发（一） ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=2247483668&idx=1&sn=b656c7ae52115cc4b460cdb6b15fc389&chksm=eb8b265fdcfcaf499c0f8b8a92aef413ab46af3fb321ca6107e7ef2cd4572cd743a941310492&scene=0#wechat_redirect)
+
+>作者：[冯永阁](http://www.jianshu.com/p/1cd518f8f35a)<br/>
+>推送时间:2016-10-21
+
+* 自定义view其实不难
+
+<hr/>
+
 
 
 
