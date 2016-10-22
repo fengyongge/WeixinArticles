@@ -11,25 +11,17 @@
 ## 已推送文章列表
 
 
-##### [[已推送]如何将Android studio中Library发布到Jcenter ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=100000009&idx=1&sn=ce344a5e5aff2c3c403ec1021dde6d93&chksm=6b8b26425cfcaf543975bea732ecd92a8d743f2fe16cbdc3bc27b104c4134aa55be215051899&scene=18#rd)
+##### [[imagepicker(图片选择器) ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=2247483677&idx=1&sn=eacfdfce63723dddcc3b974acb1fb497&chksm=eb8b2656dcfcaf4004e9830dc1273ad28426ad55618525bfca44bd4a27a9cf8060f8678ee9f8&scene=0#wechat_redirect)
 
->作者：[冯永阁](http://fengyongge.github.io)<br/>
->推送时间:2016-10-17
+>作者：[冯永阁](http://www.jianshu.com/p/f9842523956d)<br/>
+>推送时间:2016-10-22
 
-* 如何将Android studio中Library发布到Jcenter
-
-<hr/>
-
-##### [[已推送]Android本地App与html5的交互 ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=2247483661&idx=1&sn=2f15dfd18c0bd951370e79f49f35f017&chksm=eb8b2646dcfcaf5094cff236e2fafad4a5b1ff996075fb6f6fe311278fd906ccfa1364c4291c&scene=4#wechat_redirect)
-
->作者：[冯永阁](http://www.jianshu.com/p/638f633c172e)<br/>
->推送时间:2016-10-20
-
-* Android本地App与html5的交互使用
+* 开源框架
 
 <hr/>
 
-##### [[已推送]自定义view开发（一） ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=2247483668&idx=1&sn=b656c7ae52115cc4b460cdb6b15fc389&chksm=eb8b265fdcfcaf499c0f8b8a92aef413ab46af3fb321ca6107e7ef2cd4572cd743a941310492&scene=0#wechat_redirect)
+
+##### [ [已推送]自定义view开发（一） ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=2247483668&idx=1&sn=b656c7ae52115cc4b460cdb6b15fc389&chksm=eb8b265fdcfcaf499c0f8b8a92aef413ab46af3fb321ca6107e7ef2cd4572cd743a941310492&scene=0#wechat_redirect)
 
 >作者：[冯永阁](http://www.jianshu.com/p/1cd518f8f35a)<br/>
 >推送时间:2016-10-21
@@ -38,6 +30,25 @@
 
 <hr/>
 
+
+##### [ [已推送]Android本地App与html5的交互 ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=2247483661&idx=1&sn=2f15dfd18c0bd951370e79f49f35f017&chksm=eb8b2646dcfcaf5094cff236e2fafad4a5b1ff996075fb6f6fe311278fd906ccfa1364c4291c&scene=4#wechat_redirect)
+
+>作者：[冯永阁](http://www.jianshu.com/p/638f633c172e)<br/>
+>推送时间:2016-10-20
+
+* Android本地App与html5的交互使用
+
+<hr/>
+
+
+##### [ [已推送]如何将Android studio中Library发布到Jcenter ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=100000009&idx=1&sn=ce344a5e5aff2c3c403ec1021dde6d93&chksm=6b8b26425cfcaf543975bea732ecd92a8d743f2fe16cbdc3bc27b104c4134aa55be215051899&scene=18#rd)
+
+>作者：[冯永阁](http://fengyongge.github.io)<br/>
+>推送时间:2016-10-17
+
+* 如何将Android studio中Library发布到Jcenter
+
+<hr/>
 
 
 
