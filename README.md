@@ -21,7 +21,7 @@
 <hr/>
 
 
-##### [[imagepicker(图片选择器) ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=2247483677&idx=1&sn=eacfdfce63723dddcc3b974acb1fb497&chksm=eb8b2656dcfcaf4004e9830dc1273ad28426ad55618525bfca44bd4a27a9cf8060f8678ee9f8&scene=0#wechat_redirect)
+##### [[已推送]imagepicker(图片选择器) ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=2247483677&idx=1&sn=eacfdfce63723dddcc3b974acb1fb497&chksm=eb8b2656dcfcaf4004e9830dc1273ad28426ad55618525bfca44bd4a27a9cf8060f8678ee9f8&scene=0#wechat_redirect)
 
 >作者：[冯永阁](http://www.jianshu.com/p/f9842523956d)<br/>
 >推送时间:2016-10-22
