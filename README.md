@@ -10,6 +10,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Gradle配置那些事 ](http://mp.weixin.qq.com/s/mCwNNT-hc_Rt9FFlYcMzTQ)
+
+>作者：[冯永阁](http://www.jianshu.com/p/7226863b5bad)<br/>
+>推送时间:2016-11-25
+
+* Gradle配置那些事
+
+<hr/>
+
 
 ##### [[已推送]仿饿了么购物车下单效果 ](http://mp.weixin.qq.com/s?__biz=MzI4MzQ1NjAzNg==&mid=2247483686&idx=1&sn=26dc43e7acc0b73a1d397ae18131abff&chksm=eb8b266ddcfcaf7bd2a7a1ac9fa53aac2e71c690298cee7072aa1c7eaf6cc9e289cd3df2243d&scene=0#wechat_redirect)
 
