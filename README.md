@@ -10,7 +10,7 @@
 
 ## 已推送文章列表
 
-##### [[已推送]Android网络框架之Retrofit + RxJava ＋ OkHttp ](http://mp.weixin.qq.com/s/mCwNNT-hc_Rt9FFlYcMzTQ)
+##### [[已推送]Android网络框架之Retrofit + RxJava ＋ OkHttp ](http://mp.weixin.qq.com/s/1-7C_IGB6ob1KJmr3YvybA)
 
 >作者：[冯永阁](http://www.jianshu.com/p/1be1779ab040)<br/>
 >推送时间:2017-08-02
