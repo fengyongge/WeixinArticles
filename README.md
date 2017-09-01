@@ -10,6 +10,16 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android开发者如何搭建服务器 ](https://mp.weixin.qq.com/s/yOtI2P7b-E9sCIqNvgtWsw)
+
+>作者：[冯永阁](http://www.jianshu.com/p/422dbfad48d7)<br/>
+>推送时间:2017-09-01
+
+* Android开发者如何搭建服务器
+
+<hr/>
+
+
 ##### [[已推送]Android网络框架之Retrofit + RxJava ＋ OkHttp ](http://mp.weixin.qq.com/s/1-7C_IGB6ob1KJmr3YvybA)
 
 >作者：[冯永阁](http://www.jianshu.com/p/1be1779ab040)<br/>
